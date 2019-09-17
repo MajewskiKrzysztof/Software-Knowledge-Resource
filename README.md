@@ -1,8 +1,5 @@
-# Architecture
-
-# Videos
-## YT channels
-### Java
+# YT channels
+## Java
 * [Spring I/O conference videos](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg/videos)
 * [Thoughts On Java](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw/videos)
 * [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev/videos?flow=grid&view=0&sort=dd)
@@ -10,12 +7,12 @@
 * [CodeFX](https://www.youtube.com/channel/UCngKKOnBxYtLAV8pgUBNDng/videos)
 * [reddit java conferences videos](https://www.reddit.com/r/JavaConferenceVideos/)
 
-### Front-end
+## Front-end
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
 * [CodingTheSmartWay.com](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ/videos)
 * [reddit ConTalks](https://www.reddit.com/r/ConTalks/)
 
-### Other / General
+## Other / General
 * [Adam bien's channel](https://www.youtube.com/user/bienadam/videos)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/videos)
 * [slidenerd](https://www.youtube.com/user/slidenerd/videos)
